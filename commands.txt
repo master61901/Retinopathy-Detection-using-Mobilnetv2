@@ -1,0 +1,4 @@
+Resize train images to 512x512
+
+python.exe .\convert.py --crop_size 512 --extension jpeg
+
