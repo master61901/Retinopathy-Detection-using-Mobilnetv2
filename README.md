@@ -1,4 +1,5 @@
-# Retinopathy-Detection-using-Mobilnetv2
+# Retinopathy-Detection-using-Mobilnetv2 
+Published in IRJET
 Retinopathy detection using Mobilenetv2 and PyQt5 ans cv2
 
 Pre-requisite :
